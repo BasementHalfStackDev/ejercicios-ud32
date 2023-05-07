@@ -1,0 +1,31 @@
+body {
+    background: linear-gradient(90deg, rgba(211,0,225,0.3757878151260504) 0%, rgba(16,0,255,1) 100%);
+}
+
+#main-container {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+#login-form {
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-top: 15px;
+}
+
+.credentials-form {
+    background-color: #e1e1e1;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#last-form-element {
+    padding-top: 0px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#first-form-element {
+    padding-bottom: 0px;
+}
