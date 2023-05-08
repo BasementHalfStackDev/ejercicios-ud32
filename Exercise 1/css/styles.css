@@ -4,7 +4,7 @@ body {
 
 #main-container {
     padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-bottom: 3vh;
 }
 
 #login-form {
@@ -28,4 +28,8 @@ body {
 
 #first-form-element {
     padding-bottom: 0px;
+}
+
+#social-media button {
+    margin-top: 15px;
 }
