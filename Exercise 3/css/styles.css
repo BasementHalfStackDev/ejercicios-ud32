@@ -1,0 +1,46 @@
+header {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 16px;
+    background-color: #f0f0f0;
+}
+
+.left-cols {
+    padding-left: 5px;
+    padding-right: 0px;
+}
+
+.right-cols button {
+    background-color: #f0f0f0;
+    border: none;
+}
+
+#main-navbar {
+    background-color: #2980b9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.dropdown-menu li {
+    position: relative;
+}
+
+.dropdown-menu .dropdown-submenu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: -7px;
+}
+
+.dropdown-menu .dropdown-submenu-left {
+    right: 100%;
+    left: auto;
+}
+
+.dropdown-menu>li:hover>.dropdown-submenu {
+    display: block;
+}
