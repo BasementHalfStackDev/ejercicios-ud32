@@ -1,0 +1,31 @@
+.btn {
+    border-radius: 0px;
+}
+
+.form-control {
+    border-radius: 0px;
+    font-size: large;
+}
+
+.form-control:disabled {
+    background-color: white;
+}
+
+.container-fluid {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#calculator-container {
+    max-width: 400px;
+}
+
+.col-3 {
+    padding-left: 0px;
+}
+
+.btn-group {
+    padding-right: 0px;
+}
