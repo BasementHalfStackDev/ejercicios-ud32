@@ -1,0 +1,38 @@
+#navbar-row nav {
+    border-radius: 10px;
+}
+
+#navbar-row nav .nav-item a {
+    border-radius: 10px;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+#navbar-row nav .nav-item a:hover {
+    background-color: #b9b9b9;
+}
+
+
+#highlighted-article {
+    background-color: #eeeeee;
+    border-radius: 10px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+#highlighted-article button {
+    max-width: fit-content;
+}
+
+.thumbnail {
+    width: 100%;
+    height: 250px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: gray;
+}
+
+.articles-body {
+    background: linear-gradient(0deg, rgba(16,225,0,0.15449929971988796) 0%, rgba(0,56,255,0.14609593837535018) 100%);
+    border-radius: 10px;
+}
