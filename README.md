@@ -1,8 +1,6 @@
 # Exercicses Unit 32
 Exercises Unit 32 Hosted in GitHub Pages
 
-To view the pages through Github Pages, go here (https://basementhalfstackdev.github.io/ejercicios-ud32/).
-
 To view Exercise 1, please click [here](https://basementhalfstackdev.github.io/ejercicios-ud32/Exercise%201/index.html).
 
 To view Exercise 2, please click [here](https://basementhalfstackdev.github.io/ejercicios-ud32/Exercise%202/index.html).
