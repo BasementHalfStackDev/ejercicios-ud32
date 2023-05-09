@@ -1,0 +1,16 @@
+.form-select {
+    width: fit-content;
+}
+
+#search-bar {
+    max-width: 100%;
+}
+
+.table-buttons {
+    padding: 0.1rem 0.25rem;
+    margin: 0px;
+}
+
+h1 {
+    color: #2677d7;
+}
